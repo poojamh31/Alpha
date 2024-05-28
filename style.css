@@ -1,0 +1,392 @@
+body{
+    background-color: whitesmoke;
+    background-image: url(./images/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 600px;
+    font-family: 'Source Sans 3', sans-serif;
+}
+/* Headerection css starts here*/
+#HeaderSection{
+    color: white;
+    font-size: 15px;
+    margin-top: -7px;
+}
+
+#HeaderSection h1{
+
+    font-size: 15px;
+    margin: 10px 0px 0px 15px;
+    display: inline-block;
+    width: 35%;
+
+}
+#HeaderSection h1 span{
+
+    font-weight: 100;
+
+}
+#HeaderSection ul{
+
+    display: inline-block;
+    width: 66%;
+    position: absolute;
+    right: -600px;
+
+}
+#HeaderSection ul li{
+
+    display: inline-block;
+    /* float: right; */
+    padding: 0px 12px;
+    margin-right: -10px;
+    font-size: 16px;
+    margin-left: 5px;
+       
+}
+#SignUp{
+    border: 2px solid #dde0e2;
+    font-weight: 900;
+    border-radius: 6px;
+}
+/* HeaderSection css ends here */
+
+/* Bodysection css starts here */
+#BodySection{
+    text-align: center;
+    color: white;
+}
+#BodySection h1{
+    font-weight: 600;
+    font-size: 50px;
+    margin: 100px 0px 22px 0px;
+}
+#BodySection p{
+    font-size: 19px;
+    font-weight: 550;    
+}
+#BodySection ul{
+    display: inline-block;      
+}
+
+#BodySection ul li{
+   display: inline-block;
+   border: 2px solid #dde0e2;
+   border-radius: 6px;
+   padding: 10px 60px;
+   margin-right: 20px;
+   font-weight: 900;
+     
+}
+#SignBtn{
+    background-color: white;
+    color: #7e8bae;
+    border: 2px solid white !important;
+    padding: 10px 60px !important;
+
+}
+
+/* Bodysection css ends here */
+
+/* DescriptionSection css Starts here */
+#DescriptionSection{
+    width: 70%;
+    background-color: white;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 120px;  
+    border-radius: 8px;
+}
+#DescriptionSection h1{
+    padding-top: 70px;
+    font-size: 35px;
+    font-weight: 900;
+    color: #7d7d7d;
+}
+#DescriptionSection p{
+    border-top: 2.5px solid #e5e5e5;
+    font-size: 18px;
+    padding-top: 45px;
+    /* margin-bottom: 70px; */
+    display: inline-block;
+}
+#DescriptionSection img{
+    margin-top: 55px;
+    width: 100%;
+    border-radius: 0px 0px 8px 8px;
+}
+/* DescriptionSection css ends here */
+/* IconSection css Starts here */
+#IconSection{
+    width: 70%;
+    background-color: white;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 25px;
+    border-radius: 8px; 
+    border-collapse: collapse !important;
+}
+#IconSection h1{
+    color: black;
+    font-size: 30px;
+    font-weight: 500;
+}
+#IconSection p{
+    color: #49575d;
+    font-weight: 100;
+}
+#IconSection div{
+    padding: 35px;
+    
+    display: inline-block ; 
+    
+}
+.fa.fa-bolt{
+    font-size: 45px;
+    padding: 20px 35px;
+    background-color: #e89980;
+    border-radius: 100%;
+    color: white;
+}
+.fa.fa-area-chart{
+    font-size: 40px;
+    padding: 25px 25px;
+    background-color: #7fcdb8;
+    border-radius: 100%;
+    color: white;
+}
+.fa.fa-cloud{
+    font-size: 45px;
+    padding: 25px 25px;
+    background-color: #90b0ba;
+    border-radius: 100%;
+    color: white;
+}
+.fa.fa-lock{
+    font-size: 50px;
+    padding: 20px 30px;
+    background-color: #e5cb95;
+    border-radius: 100%;
+    color: white;
+}
+#IconDiv1{
+    /* border-right: 2px solid black; */
+    
+
+    /* padding-right: 33px; */
+}
+
+#IconDiv2{
+    border-bottom: 3px solid #e2e0e0;
+    border-left: 3px solid #e2e0e0;
+    padding: auto !important;
+    margin-right: 7px;
+    
+    
+}
+#IconDiv3{
+    
+    border-top: 3px solid #e2e0e0;
+    border-right: 3px solid #e2e0e0;
+    padding: auto !important;
+    margin-top: -2.5px;
+    
+
+    
+
+}
+#IconDiv4{
+    
+    
+    
+    
+}
+/* IconSection css ends here */
+/* ImgSection css ends here */
+#ImgSection{
+    
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 30px;
+    width: 70%;
+    border-radius: 10px;
+    height: 480px;
+    
+
+}
+#ImgSection div{
+    display: inline-block !important; 
+    height: 100% !important;
+    
+    
+}
+#ImgSection img{
+    width: 425px;
+    border-radius: 8px 8px 0px 0px;
+    
+}
+#ImgSection h1{
+    padding-top: 20px;
+    color: #7d7d7d;
+    font-size: 28px;
+}
+#ImgSection P{
+    padding-bottom: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+#ImgSection h2{
+    
+    border: 3px solid #e2e0e0;
+    display: inline;
+    color: #7d7d7d;
+    border-radius: 8px;
+    font-size: 15px;
+    padding: 10px 28px 10px 28px;
+    
+    
+}
+
+#one{
+    margin-right: 18px;
+    background-color: white;
+    height: 700px;
+    padding: auto;
+    border-radius: 8px;
+    
+    
+}
+#two{
+    background-color: white !important;
+    padding: auto;
+    border-radius: 8px;
+    
+}
+
+
+/* ImgSection css ends here */
+
+/* FooterSection css Starts here */
+#FooterSection{
+    background-color: #e89980;
+    text-align: center;
+    margin-top: 90px;
+    margin-left:-30px;
+    margin-right: -14px;
+}
+#FooterSection h1{
+    color: #f8e4dc;
+    padding-top: 50px;
+    font-weight: 600;
+}
+#FooterSection p{
+    color: #f8e4dc;
+}
+#FooterSection ul{
+    display: inline-block; 
+    font-size: 15px;
+    margin-bottom: 50px;
+}
+
+#FooterSection ul li{
+   display: inline-block;
+   border: 2px solid #dde0e2;
+   border-radius: 6px;
+   padding: 10px 50px; 
+   margin-right: 10px;
+}
+#emad{
+    color: #f8e4dc;
+    padding: 10px 180px 10px 10px!important;
+    background-color: #eba893;
+    font-weight: 900;
+    border: 2px solid #eba893 !important;
+    text-align: left !important;
+}
+#sig{
+    background-color: white;
+    color: #e89980;
+    font-weight: 700;
+    border: 2px solid white !important;
+    padding: 10px 30px !important;
+}
+
+
+/* FooterSection css ends here */
+
+/* Footer2 css Starts here */
+#Footer2{
+    margin-top:50px;
+    text-align: center;
+    margin-bottom: 70px;
+}
+#Footer2 ul{
+    display: inline-block;
+}
+#Footer2 ul li{
+    display: inline-block;
+    padding-right: 22px;
+}
+.fa.fa-twitter{
+    font-size: 35px;
+    /* padding: 20px 35px; */
+    
+    border-radius: 100%;
+    color: #c7c1bf;
+}
+.fa.fa-facebook{
+    font-size: 35px;
+    /* padding: 20px 35px; */
+    
+    border-radius: 100%;
+    color: #c7c1bf;
+}
+.fa.fa-instagram{
+    font-size: 35px;
+    /* padding: 20px 35px; */
+    
+    border-radius: 100%;
+    color: #c7c1bf;
+}
+
+.fa.fa-github{
+    font-size: 35px;
+    /* padding: 20px 35px; */
+    
+    border-radius: 100%;
+    color: #c7c1bf;
+}
+.fa.fa-dribbble{
+    font-size: 35px;
+    /* padding: 20px 35px; */
+    
+    border-radius: 100%;
+    color: #c7c1bf;
+}
+.fa.fa-twitter{
+    font-size: 35px;
+    /* padding: 20px 35px; */
+    
+    border-radius: 100%;
+    color: #c7c1bf;
+}
+.fa.fa-google-plus-official{
+    font-size: 35px;
+    /* padding: 20px 35px; */
+    
+    border-radius: 100%;
+    color: #c7c1bf;
+}
+#abc{
+    font-size: 15px;
+    display: inline;
+}
+#Footer2 span{
+    border-bottom: 2px dotted #c7c1bf ;
+}
+#xyz{
+    border-right: 1px solid #c7c1bf;
+    border-left: 1px solid #c7c1bf;
+    padding-left: 15px;
+    margin-right: 20px ;
+}
+/* Footer2 css ends here */

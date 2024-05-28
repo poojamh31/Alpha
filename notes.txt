@@ -1,0 +1,8 @@
+>alpha by HTML5 up
+>div*6#Section
+>for extracting same images and color of webpage we have to go in inspect and copy image.
+>eye droper.
+>h1+ul>li*3
+>font: source sans 3(extra light 200)
+        div*4#IconDiv>h1+p
+
